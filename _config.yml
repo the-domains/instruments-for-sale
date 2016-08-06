@@ -1,14 +1,18 @@
-layout_spectrum: 0.45583851588889956
-typography_spectrum: 0.5827087219804525
+layout_spectrum: 0.37305872002616525
+typography_spectrum: 0.06494979304261506
 color:
-  brandStrength: 0.25394965009763837
-  lightness: 0.6402435025665909
-  saturation: 0.38559491094201803
-  rhythmicContrast: 0.35662630992010236
+  brandStrength: 0.9961999857332557
+  lightness: 0.23886543838307261
+  saturation: 0.9394131721928716
+  rhythmicContrast: 0.5802075886167586
   brandColors:
-    - '#E8E7E3'
-    - '#191C2D'
-    - '#CFBDA7'
-    - '#73767D'
-    - '#98C8F8'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: instruments for sale
+navigation:
+  - name: Doyle Flute
+    id: cfd1bd69-44e6-4625-a758-611732b473f4
+    type: content

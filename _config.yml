@@ -1,8 +1,27 @@
-layout_spectrum: 0.37305872002616525
-typography_spectrum: 0.06494979304261506
+layout_spectrum: 0.3730587200261652
+name: instruments for sale
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+navigation:
+  - id: cfd1bd69-44e6-4625-a758-611732b473f4
+    name: Doyle Flute
+    type: content
+  - id: bc62f3fd-3640-4ea2-b51e-fd1ccf12d59a
+    name: Olwell Flute
+    type: content
 color:
-  brandStrength: 0.9961999857332557
-  lightness: 0.23886543838307261
+  brandStrength: 0.5056391
+  lightness: 0.2388654383830726
   saturation: 0.9394131721928716
   rhythmicContrast: 0.5802075886167586
   brandColors:
@@ -11,11 +30,4 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-name: instruments for sale
-navigation:
-  - name: Doyle Flute
-    id: cfd1bd69-44e6-4625-a758-611732b473f4
-    type: content
-  - name: Olwell Flute
-    id: bc62f3fd-3640-4ea2-b51e-fd1ccf12d59a
-    type: content
+typography_spectrum: 0.06494979304261506

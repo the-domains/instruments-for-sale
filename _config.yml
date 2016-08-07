@@ -21,9 +21,9 @@ navigation:
     type: content
 color:
   brandStrength: 0.5056391
-  lightness: 0.2388654383830726
-  saturation: 0.9394131721928716
-  rhythmicContrast: 0.5802075886167586
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5338346
   brandColors:
     - '#468966'
     - '#FFF0A5'

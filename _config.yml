@@ -20,14 +20,14 @@ navigation:
     name: Olwell Flute
     type: content
 color:
-  brandStrength: 0.5056391
+  brandStrength: 0.4943609
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.5338346
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#09080B'
+    - '#FFFFFF'
+    - '#3A3534'
+    - '#6F7D85'
+    - '#A9A89D'
 typography_spectrum: 0.6359649

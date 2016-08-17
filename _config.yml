@@ -24,4 +24,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: This is the headline
 description: This is the tagline

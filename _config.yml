@@ -1,3 +1,15 @@
+typography_spectrum: 0.6359649
+color:
+  brandStrength: 0.4943609
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5338346
+  brandColors:
+    - '#09080B'
+    - '#FFFFFF'
+    - '#3A3534'
+    - '#6F7D85'
+    - '#A9A89D'
 layout_spectrum: 0.6309524
 name: instruments for sale
 collections:
@@ -12,15 +24,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.4943609
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5338346
-  brandColors:
-    - '#09080B'
-    - '#FFFFFF'
-    - '#3A3534'
-    - '#6F7D85'
-    - '#A9A89D'
-typography_spectrum: 0.6359649
+description: This is the tagline

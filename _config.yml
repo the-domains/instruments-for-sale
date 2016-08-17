@@ -13,11 +13,8 @@ collections:
     permalink:
       path: '/:title/'
 navigation:
-  - id: cfd1bd69-44e6-4625-a758-611732b473f4
-    name: Doyle Flute
-    type: content
-  - id: bc62f3fd-3640-4ea2-b51e-fd1ccf12d59a
-    name: Olwell Flute
+  - name: Doyle Flute
+    id: cfd1bd69-44e6-4625-a758-611732b473f4
     type: content
 color:
   brandStrength: 0.4943609

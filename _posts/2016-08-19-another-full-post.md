@@ -1,13 +1,13 @@
 ---
-description: Preamble under title.
-dateModified: '2016-08-19T14:21:00.539Z'
-datePublished: '2016-08-19T14:21:40.121Z'
-title: Another full post
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-19T14:58:37.363Z'
 sourcePath: _posts/2016-08-19-another-full-post.md
+author: []
+via: {}
+dateModified: '2016-08-19T14:58:36.731Z'
+title: Another full post
+publisher: {}
+description: Preamble under title.
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,4 +20,4 @@ _type: MediaObject
 
 Preamble under title.
 
-And here is the supposed contend of a separate page. But how do I get to it?
+And here is the supposed contend of a separate page. But how do I get to it??
